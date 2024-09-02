@@ -1,0 +1,23 @@
+# Dependencias de Composer
+/vendor/
+
+# Archivos de configuración específicos de Composer
+composer.lock
+
+# Archivos de configuración del sistema
+.env
+*.env
+
+# Archivos de cache y logs
+/cache/
+*.log
+
+# Configuración del editor
+.vscode/
+.idea/
+
+# Archivos generados por PHPUnit
+.phpunit.result.cache
+
+# Otros archivos innecesarios
+.DS_Store
