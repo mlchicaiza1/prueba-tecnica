@@ -1,5 +1,3 @@
-# prueba-tecnica
-
 Iniciar el proyecto: composer install
 
 # ejecutar los test
